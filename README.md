@@ -1,3 +1,4 @@
 ## About me
 A student at Carnegie Mellon University
-Research interest: safe, explainable, and trustworthy AI systems. 
+
+Research interests: safe, explainable, and trustworthy AI systems. 
